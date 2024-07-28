@@ -5,4 +5,4 @@ Debian
 Mac  
 `brew install gmp`  
 # Build instructions
-gcc main.c findPrimes.c input.c multiplication.c -lgmp
+`gcc main.c findPrimes.c input.c multiplication.c -lgmp`
